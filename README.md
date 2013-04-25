@@ -1,0 +1,4 @@
+studyjQuery
+===========
+
+some simple exercises
